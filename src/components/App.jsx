@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { GlobalStyle } from './GlobalStyle';
-import { Searchbar } from './Searchbar/Searchbar';
+import Searchbar from './Searchbar/Searchbar';
 import { Layout } from './Layout/Layout';
 import ImageGallery from './ImageGallery/ImageGallery';
 
